@@ -8,6 +8,13 @@ This is a smart system that switches on and off depending on the day time. The s
 
 ## Design
 
+The street light system is designed on an Arduino microprocessor, using 2 Light-Dependent Resistors, an SG90 Servo Motor, a Solar Panel, a Passive Infra-Red Detector, a rechargeable Ni-Mh bettery and an LED bulb.
+
 ## Simulation
 
 A fully functioning [Tinkercad simulation](https://www.tinkercad.com/things/6ZpcbpP0eCZ-automated-solar-tracking) of the street light system
+
+## Contributors
+
+* [Ananya Raju](https://github.com/ananyaraju)
+* [Nishanth Pilli](https://github.com/dr4g0n7ly)

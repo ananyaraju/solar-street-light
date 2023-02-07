@@ -16,5 +16,5 @@ A fully functioning [Tinkercad simulation](https://www.tinkercad.com/things/6Zpc
 
 ## Contributors
 
-* [Ananya Raju](www.github.com/ananyaraju)
-* [Nishanth Pilli](www.github.com/dr4g0n7ly)
+* [Ananya Raju](https://github.com/ananyaraju)
+* [Nishanth Pilli](https://github.com/dr4g0n7ly)
